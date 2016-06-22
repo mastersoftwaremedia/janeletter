@@ -12,7 +12,7 @@ font: inherit;
 }
 
 body {
- background: #cc9900 url(janeletters.jpg) no-repeat center center; 
+ background: #cc9900 url(images/janeletters.jpg) no-repeat center center; 
  background-attachment: fixed;
  background-size: cover;
  font: 18px/24px "Alice", sans-serif;
